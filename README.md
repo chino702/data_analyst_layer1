@@ -41,6 +41,15 @@ The dataset simulates an e-commerce / product analytics environment with the fol
 
 All SQL files are located in the `sql/` directory and include inline comments explaining key logic.
 
+### Day 3 – pandas Analysis Workflow
+- Connected Python to a SQLite database
+- Pulled analysis-ready datasets using SQL queries
+- Re-aggregated metrics at different time grains (daily → monthly)
+- Built attribution metrics (revenue by acquisition channel)
+- Created customer-level metrics (LTV proxy)
+- Performed exploratory analysis and sanity-check visualizations
+- Saved clean outputs for downstream use
+
 ---
 
 ## Tools Used
