@@ -1,6 +1,6 @@
 # Data Analyst Layer 1 – SQL Foundations
 
-This repository contains hands-on SQL practice using a **synthetic product analytics dataset** designed to mirror real-world tech and fintech analytics work.
+This repository contains hands on SQL practice using a **synthetic product analytics dataset** designed to mirror real world tech and fintech analytics work.
 
 The goal of this project is to build strong fundamentals in:
 - SQL querying
@@ -30,12 +30,12 @@ The dataset simulates an e-commerce / product analytics environment with the fol
 ### Day 1 – Core Aggregations
 - Daily revenue, order count, and average order value (AOV)
 - Basic grouping and sorting
-- Clean, well-documented SQL queries
+- Clean, well documented SQL queries
 
 ### Day 2 – JOINs and Advanced Analysis
 - Revenue by acquisition channel
 - Top customers by lifetime value
-- Product-level revenue and gross margin
+- Product level revenue and gross margin
 - Ranking products within categories using window functions
 - **Bonus:** New vs returning customers by month (cohort logic)
 
@@ -44,11 +44,17 @@ All SQL files are located in the `sql/` directory and include inline comments ex
 ### Day 3 – pandas Analysis Workflow
 - Connected Python to a SQLite database
 - Pulled analysis-ready datasets using SQL queries
-- Re-aggregated metrics at different time grains (daily → monthly)
+- Reaggregated metrics at different time grains (daily → monthly)
 - Built attribution metrics (revenue by acquisition channel)
 - Created customer-level metrics (LTV proxy)
-- Performed exploratory analysis and sanity-check visualizations
+- Performed exploratory analysis and sanity check visualizations
 - Saved clean outputs for downstream use
+
+### Day 4 - Statistics & Distribution Thinking
+- Analyzed distribution properties of customer revenue
+- Identified skewness and fat tailed behavior
+- Used percentiles and log transforms for robust insight
+- Built intution for risk aware analysis
 
 ---
 
