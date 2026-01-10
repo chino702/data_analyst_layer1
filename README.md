@@ -56,6 +56,12 @@ All SQL files are located in the `sql/` directory and include inline comments ex
 - Used percentiles and log transforms for robust insight
 - Built intution for risk aware analysis
 
+### Day 4 – Probability & Expected Value
+- Computed win rates and payoff magnitudes
+- Calculated expected value from real transaction data
+- Demonstrated why win rate alone is misleading
+- Built intuition applicable to trading strategies
+
 ---
 
 ## Tools Used
