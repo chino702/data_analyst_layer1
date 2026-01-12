@@ -69,6 +69,12 @@ All SQL files are located in the `sql/` directory and include inline comments ex
 - Visualized volatility clustering over time
 - Introduced risk-adjusted thinking (Sharpe-like intuition)
 
+### Day 5 – Cohort Retention Analysis
+- Defined user cohorts based on first activity
+- Built cohort retention matrices over time
+- Visualized lifecycle decay and persistence
+- Connected retention behavior to time-series decay concepts
+
 ---
 
 ## Tools Used
