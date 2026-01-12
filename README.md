@@ -62,6 +62,13 @@ All SQL files are located in the `sql/` directory and include inline comments ex
 - Demonstrated why win rate alone is misleading
 - Built intuition applicable to trading strategies
 
+### Day 5 – Volatility & Rolling Risk
+- Constructed a time series of daily revenue changes
+- Measured volatility as a risk metric
+- Computed rolling volatility to identify regime changes
+- Visualized volatility clustering over time
+- Introduced risk-adjusted thinking (Sharpe-like intuition)
+
 ---
 
 ## Tools Used
