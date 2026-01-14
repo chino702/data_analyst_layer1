@@ -75,6 +75,12 @@ All SQL files are located in the `sql/` directory and include inline comments ex
 - Visualized lifecycle decay and persistence
 - Connected retention behavior to time-series decay concepts
 
+### Day 6 - Statstical Inference & Simulation
+- Performed hypothesis testing and confidence interval analysis
+- Decomposed time series into trend and noise components
+- Simulated future outcomes using Monte Carlo methods
+- Quantified uncertainty and tail risk using percentile analysis
+
 ---
 
 ## Tools Used
