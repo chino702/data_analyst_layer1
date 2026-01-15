@@ -81,6 +81,17 @@ All SQL files are located in the `sql/` directory and include inline comments ex
 - Simulated future outcomes using Monte Carlo methods
 - Quantified uncertainty and tail risk using percentile analysis
 
+### Day 7 – Backtesting & Risk Management
+
+- Implemented an end-to-end backtesting framework using historical time-series data
+- Built and evaluated a moving-average crossover strategy
+- Prevented lookahead bias through proper signal shifting
+- Compared strategy performance against a baseline (market)
+- Measured risk-adjusted performance and drawdowns
+- Modeled risk of ruin and position sizing using Monte Carlo simulation
+- Analyzed the impact of transaction costs, slippage, and turnover
+- Performed parameter sensitivity analysis to detect overfitting and assess robustness
+
 ---
 
 ## Tools Used
